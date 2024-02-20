@@ -1,15 +1,15 @@
 // log credits to the console
-console.log('made by zek-c!')
+console.log('Hello5470!')
 //just a variable, does nothing.
-var madeByZekC='Made by Zek-C. Free to modify and distribute!';
+var madeByHello5470='Made by Zek-C. Free to modify and distribute!';
 // alert credits
 alert('Made by zek-c');
 // add this for check to work
 // create a new paragraph element
 var pCheck = document.createElement("p");
 
-// add stuff
-pCheck.textContent = "Made by zek-c";
+// add stuff 
+pCheck.textContent = "Made by Hello5470";
 
 // attach it to the body
 document.body.appendChild(pCheck);
